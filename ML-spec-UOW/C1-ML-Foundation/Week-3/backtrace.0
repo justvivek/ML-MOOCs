@@ -1,0 +1,825 @@
+Pointers
+------------
+0x7f5ff4bc35a3
+0x7f5ff36a4886
+0x7f5ff4688d44
+0x7f5ff46a306d
+0x7f5ff4e4a781
+Raw
+------------
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f5ff4bc35a3]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f5ff36a4886]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f5ff4688d44]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f5ff46a306d]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f5ff4e4a781]
+
+Demangled
+------------
+__print_back_trace()
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f5ff4bc35a3
+0x7f5ff36a4886
+0x7f5ff4688d44
+0x7f5ff46a306d
+0x7f5ff4e4a781
+Raw
+------------
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f5ff4bc35a3]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f5ff36a4886]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f5ff4688d44]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f5ff46a306d]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f5ff4e4a781]
+
+Demangled
+------------
+__print_back_trace()
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f5ff4bc35a3
+0x7f5ff36a4886
+0x7f5ff4688d44
+0x7f5ff46a306d
+0x7f5ff4e4a781
+Raw
+------------
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f5ff4bc35a3]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f5ff36a4886]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f5ff4688d44]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f5ff46a306d]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f5ff4e4a781]
+
+Demangled
+------------
+__print_back_trace()
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f5ff4bc35a3
+0x7f5ff36a4886
+0x7f5ff4688d44
+0x7f5ff46a306d
+0x7f5ff4e4a781
+Raw
+------------
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f5ff4bc35a3]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f5ff36a4886]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f5ff4688d44]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f5ff46a306d]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f5ff4e4a781]
+
+Demangled
+------------
+__print_back_trace()
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f5ff4bc35a3
+0x7f5ff36a4886
+0x7f5ff4688d44
+0x7f5ff46a306d
+0x7f5ff4e4a781
+Raw
+------------
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f5ff4bc35a3]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f5ff36a4886]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f5ff4688d44]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f5ff46a306d]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f5ff4e4a781]
+
+Demangled
+------------
+__print_back_trace()
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f5ff4bc35a3
+0x7f5ff36a4886
+0x7f5ff4688d44
+0x7f5ff46a306d
+0x7f5ff4e4a781
+Raw
+------------
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f5ff4bc35a3]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f5ff36a4886]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f5ff4688d44]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f5ff46a306d]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f5ff4e4a781]
+
+Demangled
+------------
+__print_back_trace()
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f5ff4bc35a3
+0x7f5ff36a4886
+0x7f5ff4688d44
+0x7f5ff46a306d
+0x7f5ff4e4a781
+Raw
+------------
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f5ff4bc35a3]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f5ff36a4886]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f5ff4688d44]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f5ff46a306d]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f5ff4e4a781]
+
+Demangled
+------------
+__print_back_trace()
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f5ff4bc35a3
+0x7f5ff36a4886
+0x7f5ff4688d44
+0x7f5ff46a306d
+0x7f5ff4e4a781
+Raw
+------------
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f5ff4bc35a3]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f5ff36a4886]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f5ff4688d44]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f5ff46a306d]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f5ff4e4a781]
+
+Demangled
+------------
+__print_back_trace()
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f5ff4bc35a3
+0x7f5ff36a4886
+0x7f5ff4688d44
+0x7f5ff46a306d
+0x7f5ff4e4a781
+Raw
+------------
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f5ff4bc35a3]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f5ff36a4886]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f5ff4688d44]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f5ff46a306d]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f5ff4e4a781]
+
+Demangled
+------------
+__print_back_trace()
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f5ff4bc35a3
+0x7f5ff36a4886
+0x7f5ff4688d44
+0x7f5ff46a306d
+0x7f5ff4e4a781
+Raw
+------------
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f5ff4bc35a3]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f5ff36a4886]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f5ff4688d44]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f5ff46a306d]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f5ff4e4a781]
+
+Demangled
+------------
+__print_back_trace()
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f5ff4bc35a3
+0x7f5ff36a4886
+0x7f5ff4688d44
+0x7f5ff46a306d
+0x7f5ff4e4a781
+Raw
+------------
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f5ff4bc35a3]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f5ff36a4886]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f5ff4688d44]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f5ff46a306d]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f5ff4e4a781]
+
+Demangled
+------------
+__print_back_trace()
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f5ff4bc35a3
+0x7f5ff36a4886
+0x7f5ff4688d44
+0x7f5ff46a306d
+0x7f5ff4e4a781
+Raw
+------------
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f5ff4bc35a3]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f5ff36a4886]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f5ff4688d44]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f5ff46a306d]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f5ff4e4a781]
+
+Demangled
+------------
+__print_back_trace()
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f5ff4bc35a3
+0x7f5ff36a4886
+0x7f5ff4688d44
+0x7f5ff46a306d
+0x7f5ff4e4a781
+Raw
+------------
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f5ff4bc35a3]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f5ff36a4886]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f5ff4688d44]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f5ff46a306d]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f5ff4e4a781]
+
+Demangled
+------------
+__print_back_trace()
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f5ff4bc35a3
+0x7f5ff36a4886
+0x7f5ff4688d44
+0x7f5ff46a306d
+0x7f5ff4e4a781
+Raw
+------------
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f5ff4bc35a3]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f5ff36a4886]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f5ff4688d44]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f5ff46a306d]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f5ff4e4a781]
+
+Demangled
+------------
+__print_back_trace()
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f5ff4bc35a3
+0x7f5ff36a4886
+0x7f5ff4688d44
+0x7f5ff46a306d
+0x7f5ff4e4a781
+Raw
+------------
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f5ff4bc35a3]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f5ff36a4886]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f5ff4688d44]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f5ff46a306d]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f5ff4e4a781]
+
+Demangled
+------------
+__print_back_trace()
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f5ff4bc35a3
+0x7f5ff36a4886
+0x7f5ff4688d44
+0x7f5ff46a306d
+0x7f5ff4e4a781
+Raw
+------------
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f5ff4bc35a3]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f5ff36a4886]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f5ff4688d44]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f5ff46a306d]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f5ff4e4a781]
+
+Demangled
+------------
+__print_back_trace()
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f5ff4bc35a3
+0x7f5ff36a4886
+0x7f5ff4688d44
+0x7f5ff46a306d
+0x7f5ff4e4a781
+Raw
+------------
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f5ff4bc35a3]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f5ff36a4886]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f5ff4688d44]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f5ff46a306d]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f5ff4e4a781]
+
+Demangled
+------------
+__print_back_trace()
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f5ff4bc35a3
+0x7f5ff36a4886
+0x7f5ff4688d44
+0x7f5ff46a306d
+0x7f5ff4e4a781
+Raw
+------------
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f5ff4bc35a3]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f5ff36a4886]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f5ff4688d44]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f5ff46a306d]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f5ff4e4a781]
+
+Demangled
+------------
+__print_back_trace()
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f5ff4bc35a3
+0x7f5ff369bfb0
+0x7f5ff46882c2
+0x7f5ff46a306d
+0x7f5ff4e4a781
+Raw
+------------
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f5ff4bc35a3]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x41cfb0) [0x7f5ff369bfb0]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x14092c2) [0x7f5ff46882c2]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f5ff46a306d]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f5ff4e4a781]
+
+Demangled
+------------
+__print_back_trace()
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x41cfb0)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x14092c2)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f5ff4bc35a3
+0x7f5ff369bfb0
+0x7f5ff46882c2
+0x7f5ff46a306d
+0x7f5ff4e4a781
+Raw
+------------
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f5ff4bc35a3]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x41cfb0) [0x7f5ff369bfb0]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x14092c2) [0x7f5ff46882c2]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f5ff46a306d]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f5ff4e4a781]
+
+Demangled
+------------
+__print_back_trace()
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x41cfb0)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x14092c2)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f5ff4bc35a3
+0x7f5ff369bfb0
+0x7f5ff46882c2
+0x7f5ff46a306d
+0x7f5ff4e4a781
+Raw
+------------
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f5ff4bc35a3]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x41cfb0) [0x7f5ff369bfb0]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x14092c2) [0x7f5ff46882c2]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f5ff46a306d]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f5ff4e4a781]
+
+Demangled
+------------
+__print_back_trace()
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x41cfb0)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x14092c2)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f5ff4bc35a3
+0x7f5ff36a4886
+0x7f5ff4688d44
+0x7f5ff46a306d
+0x7f5ff4e4a781
+Raw
+------------
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f5ff4bc35a3]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f5ff36a4886]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f5ff4688d44]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f5ff46a306d]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f5ff4e4a781]
+
+Demangled
+------------
+__print_back_trace()
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f5ff4bc35a3
+0x7f5ff369bc7c
+0x7f5ff46883c9
+0x7f5ff46a306d
+0x7f5ff4e4a781
+Raw
+------------
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f5ff4bc35a3]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x41cc7c) [0x7f5ff369bc7c]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x14093c9) [0x7f5ff46883c9]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f5ff46a306d]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f5ff4e4a781]
+
+Demangled
+------------
+__print_back_trace()
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x41cc7c)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x14093c9)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f5ff4bc35a3
+0x7f5ff369bfb0
+0x7f5ff46882c2
+0x7f5ff46a306d
+0x7f5ff4e4a781
+Raw
+------------
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f5ff4bc35a3]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x41cfb0) [0x7f5ff369bfb0]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x14092c2) [0x7f5ff46882c2]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f5ff46a306d]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f5ff4e4a781]
+
+Demangled
+------------
+__print_back_trace()
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x41cfb0)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x14092c2)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f5ff4bc35a3
+0x7f5ff369bc7c
+0x7f5ff46883c9
+0x7f5ff46a306d
+0x7f5ff4e4a781
+Raw
+------------
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f5ff4bc35a3]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x41cc7c) [0x7f5ff369bc7c]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x14093c9) [0x7f5ff46883c9]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f5ff46a306d]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f5ff4e4a781]
+
+Demangled
+------------
+__print_back_trace()
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x41cc7c)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x14093c9)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f5ff4bc35a3
+0x7f5ff369bc7c
+0x7f5ff46883c9
+0x7f5ff46a306d
+0x7f5ff4e4a781
+Raw
+------------
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f5ff4bc35a3]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x41cc7c) [0x7f5ff369bc7c]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x14093c9) [0x7f5ff46883c9]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f5ff46a306d]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f5ff4e4a781]
+
+Demangled
+------------
+__print_back_trace()
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x41cc7c)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x14093c9)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f5ff4bc35a3
+0x7f5ff36a4886
+0x7f5ff4688d44
+0x7f5ff46a306d
+0x7f5ff4e4a781
+Raw
+------------
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f5ff4bc35a3]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f5ff36a4886]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f5ff4688d44]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f5ff46a306d]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f5ff4e4a781]
+
+Demangled
+------------
+__print_back_trace()
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f5ff4bc35a3
+0x7f5ff36a4886
+0x7f5ff4688d44
+0x7f5ff46a306d
+0x7f5ff4e4a781
+Raw
+------------
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f5ff4bc35a3]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f5ff36a4886]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f5ff4688d44]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f5ff46a306d]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f5ff4e4a781]
+
+Demangled
+------------
+__print_back_trace()
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f5ff4bc35a3
+0x7f5ff36a4886
+0x7f5ff4688d44
+0x7f5ff46a306d
+0x7f5ff4e4a781
+Raw
+------------
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f5ff4bc35a3]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f5ff36a4886]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f5ff4688d44]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f5ff46a306d]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f5ff4e4a781]
+
+Demangled
+------------
+__print_back_trace()
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f5ff4bc35a3
+0x7f5ff36a4886
+0x7f5ff4688d44
+0x7f5ff46a306d
+0x7f5ff4e4a781
+Raw
+------------
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f5ff4bc35a3]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f5ff36a4886]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f5ff4688d44]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f5ff46a306d]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f5ff4e4a781]
+
+Demangled
+------------
+__print_back_trace()
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f5ff4bc35a3
+0x7f5ff36a4886
+0x7f5ff4688d44
+0x7f5ff46a306d
+0x7f5ff4e4a781
+Raw
+------------
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f5ff4bc35a3]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f5ff36a4886]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f5ff4688d44]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f5ff46a306d]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f5ff4e4a781]
+
+Demangled
+------------
+__print_back_trace()
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f5ff4bc35a3
+0x7f5ff369bfb0
+0x7f5ff46882c2
+0x7f5ff46a306d
+0x7f5ff4e4a781
+Raw
+------------
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f5ff4bc35a3]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x41cfb0) [0x7f5ff369bfb0]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x14092c2) [0x7f5ff46882c2]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f5ff46a306d]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f5ff4e4a781]
+
+Demangled
+------------
+__print_back_trace()
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x41cfb0)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x14092c2)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f5ff4bc35a3
+0x7f5ff36a4886
+0x7f5ff4688d44
+0x7f5ff46a306d
+0x7f5ff4e4a781
+Raw
+------------
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f5ff4bc35a3]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f5ff36a4886]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f5ff4688d44]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f5ff46a306d]
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f5ff4e4a781]
+
+Demangled
+------------
+__print_back_trace()
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/vivek/anaconda2/envs/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
